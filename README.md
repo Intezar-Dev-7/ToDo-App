@@ -1,16 +1,25 @@
-# to_do_app
+## ToDo App ##
 
-A new Flutter project.
+A simple and efficient ToDo app built using Flutter. This app allows users to create, update, read, and delete (CRUD) tasks. It uses SQFlite for local storage and Provider for state management.
 
-## Getting Started
+## Features ##
 
-This project is a starting point for a Flutter application.
+Add new tasks
 
-A few resources to get you started if this is your first Flutter project:
+Edit existing tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mark tasks as completed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Delete tasks
+
+Persist data using SQFlite
+
+State management using Provider
+
+## Technologies Used ## 
+
+Flutter: Cross-platform UI framework
+
+SQFlite: Local database for storing tasks
+
+Provider: State management solution
